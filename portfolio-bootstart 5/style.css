@@ -1,0 +1,21 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #adb5bd;
+}
+
+#gallery {
+  background-color: #adb5bd;
+}
+
+a {
+  text-decoration: none;
+}
+
+a img {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
+section {
+  padding-top: 5rem;
+}
